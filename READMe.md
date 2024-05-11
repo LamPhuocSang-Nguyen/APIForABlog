@@ -1,1 +1,1 @@
-(/Screenshort/posts.PNG)
+![Reference image](/Screenshort/posts.PNG)
