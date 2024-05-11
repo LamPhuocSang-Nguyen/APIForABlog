@@ -1,8 +1,8 @@
 # 1. install nodejs by using commant:
-npm i 
-npm i nodemon
-nodemon index.js
-nodemon server.js
+1. npm i 
+2. npm i nodemon
+3. nodemon index.js
+4. nodemon server.js
 # 2. Rout /:
 ![Reference image](/Screenshort/posts.PNG)
 # 3. Rout /new
