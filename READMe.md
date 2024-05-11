@@ -1,1 +1,1 @@
-(/Screenshort/posts)
+(/Screenshort/posts.PNG)
